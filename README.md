@@ -99,3 +99,5 @@ For any questions or feedback about this project, please reach out to:
 - GitHub: @Arthur_Techy
 
 You can also open an issue in the GitHub repository if you encounter any problems or have feature requests.
+
+Click to view the app: [Link](https://email-spam-classifier-app.streamlit.app/)
