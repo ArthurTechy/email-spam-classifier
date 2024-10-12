@@ -23,8 +23,8 @@ This Streamlit application implements a machine learning model to classify email
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/email-spam-classifier.git
-cd email-spam-classifier
+git clone https://github.com/your-username/email-spam-classifier-app.git
+cd email-spam-classifier-app
 
 # Install required packages
 pip install -r requirements.txt
